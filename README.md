@@ -1,2 +1,10 @@
-# Hello-World-Code
-attempt to put helloworld code into GitHub
+package helloworldpackage;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			System.out.println("Hello World");
+	}
+
+}
